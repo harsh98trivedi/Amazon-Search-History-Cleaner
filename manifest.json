@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Clears the Amazon search bar history suggestions with a single click.",
   "homepage_url": "https://harsh98trivedi.github.io/links",
-  "permissions": ["scripting", "tabs"],
+  "permissions": ["scripting"],
   "host_permissions": [
     "*://*.amazon.com/*",
     "*://*.amazon.co.uk/*",
@@ -37,3 +37,4 @@
     "128": "images/icon128.png"
   }
 }
+
