@@ -1,6 +1,6 @@
-# [Amazon Search History Cleaner](https://chromewebstore.google.com/detail/amazon-history-cleaner/fgaglnpgeecmcahneolhgmplifhpikpa)
+# [Amazon Search History Cleaner]([https://chromewebstore.google.com/detail/amazon-history-cleaner/fgaglnpgeecmcahneolhgmplifhpikpa](https://chromewebstore.google.com/detail/amazon-search-history-cleaner/fgaglnpgeecmcahneolhgmplifhpikpa))
 
-[![Amazon Search History Cleaner](images/meta.jpg)](https://chromewebstore.google.com/detail/amazon-history-cleaner/fgaglnpgeecmcahneolhgmplifhpikpa)
+[![Amazon Search History Cleaner](images/meta.jpg)]([https://chromewebstore.google.com/detail/amazon-history-cleaner/fgaglnpgeecmcahneolhgmplifhpikpa](https://chromewebstore.google.com/detail/amazon-search-history-cleaner/fgaglnpgeecmcahneolhgmplifhpikpa))
 
 Tired of your old Amazon searches cluttering your suggestions? **Amazon Search Cleaner** is a simple, powerful Chrome extension that clears your entire search bar history with a single click.
 
@@ -20,3 +20,4 @@ No more manually deleting entries one by one. Just click the icon, and watch you
 3.  The extension will automatically clear all search suggestions from the search bar. An alert will confirm when the process is complete.
 
 It's that simple!
+
