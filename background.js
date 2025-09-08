@@ -6,13 +6,15 @@ function clearSearchSuggestions() {
   if (searchInput) {
     searchInput.focus();
   } else {
-    console.log("Amazon Search Cleaner: Could not find the search bar.");
+    console.log(
+      "Amazon Search History Cleaner: Could not find the search bar."
+    );
     return;
   }
 
   let itemsCleared = 0;
   console.log(
-    "Amazon Search Cleaner: Looking for search suggestions to clear..."
+    "Amazon Search History Cleaner: Looking for search suggestions to clear..."
   );
 
   // Set a short delay to allow the suggestion dropdown to appear after focus.
@@ -28,12 +30,12 @@ function clearSearchSuggestions() {
         clearInterval(intervalId); // Stop the loop.
 
         if (itemsCleared > 0) {
-          const message = `Amazon Search Cleaner: Successfully cleared search suggestions.`;
+          const message = `Amazon Search History Cleaner: Successfully cleared search suggestions.`;
           console.log(message);
           alert(message);
         } else {
           const message =
-            "Amazon Search Cleaner: No search suggestions to clear.";
+            "Amazon Search History Cleaner: No search suggestions to clear.";
           console.log(message);
         }
 

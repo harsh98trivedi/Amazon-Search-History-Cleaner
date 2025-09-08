@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Amazon History Cleaner",
+  "name": "Amazon Search History Cleaner",
   "version": "1.0",
   "description": "Clears the Amazon search bar history suggestions with a single click.",
   "homepage_url": "https://harsh98trivedi.github.io/links",

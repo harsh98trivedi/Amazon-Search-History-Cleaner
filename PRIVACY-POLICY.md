@@ -1,4 +1,4 @@
-# Privacy Policy for Amazon Search Cleaner
+# Privacy Policy for Amazon Search History Cleaner
 
 **Last Updated:** September 4, 2025
 
@@ -6,7 +6,7 @@ Thank you for using the Amazon Search Cleaner Chrome Extension. This policy outl
 
 ### Data Handling and Usage
 
-Amazon Search Cleaner is built with a strong commitment to user privacy. It is designed to be simple, secure, and transparent.
+Amazon Search History Cleaner is built with a strong commitment to user privacy. It is designed to be simple, secure, and transparent.
 
 - **No Data Collection:** The extension **does not collect, store, transmit, or share any personally identifiable information (PII)** or any other user data.
 - **Local Operation:** All functionality of the extension runs locally within your browser on the active Amazon web page. No information is ever sent to any external server.
@@ -22,7 +22,7 @@ The extension requires a minimal set of permissions to perform its function:
 
 ### Summary
 
-The Amazon Search Cleaner is a tool designed solely to enhance your user experience on Amazon by clearing search suggestions. It does not monitor, collect, or transmit your data.
+The Amazon Search History Cleaner is a tool designed solely to enhance your user experience on Amazon by clearing search suggestions. It does not monitor, collect, or transmit your data.
 
 ### Contact
 
