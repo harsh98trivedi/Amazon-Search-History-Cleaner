@@ -21,3 +21,6 @@ No more manually deleting entries one by one. Just click the icon, and watch you
 
 It's that simple!
 
+<a href="https://peerlist.io/harshtrivedi/project/amazon-search-history-cleaner" target="_blank" rel="noreferrer"><img src="https://peerlist.io/api/v1/projects/embed/PRJH7B8DE68O6L8KRF9OAEN6NERK9P?showUpvote=true&theme=dark" alt="Amazon Search History Cleaner" style="width: auto; height: 72px;"/></a>
+
+
